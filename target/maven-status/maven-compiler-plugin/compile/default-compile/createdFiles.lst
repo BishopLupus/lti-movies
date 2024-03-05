@@ -1,0 +1,16 @@
+com/alviter/movies/domain/crosscutting/Utils.class
+com/alviter/movies/repository/entity/MovieEntity$MovieEntityBuilder.class
+com/alviter/movies/domain/crosscutting/GeneralResponse.class
+com/alviter/movies/service/MovieService.class
+com/alviter/movies/exception/MovieException.class
+com/alviter/movies/controller/MoviesController.class
+com/alviter/movies/service/impl/MovieServiceImpl.class
+com/alviter/movies/domain/converter/MovieToMovieDTOConverter.class
+com/alviter/movies/domain/dto/MovieDTO.class
+com/alviter/movies/repository/entity/MovieEntity.class
+com/alviter/movies/MoviesApiApplication.class
+com/alviter/movies/repository/MovieRepository.class
+com/alviter/movies/config/MoviesConfiguration.class
+com/alviter/movies/domain/dto/MovieDTO$MovieDTOBuilder.class
+com/alviter/movies/domain/crosscutting/MovieConstants.class
+com/alviter/movies/domain/crosscutting/GeneralResponse$GeneralResponseBuilder.class

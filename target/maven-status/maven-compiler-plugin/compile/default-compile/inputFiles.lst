@@ -1,0 +1,13 @@
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/repository/entity/MovieEntity.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/MoviesApiApplication.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/service/MovieService.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/domain/crosscutting/GeneralResponse.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/domain/crosscutting/Utils.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/domain/converter/MovieToMovieDTOConverter.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/exception/MovieException.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/domain/dto/MovieDTO.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/repository/MovieRepository.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/controller/MoviesController.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/service/impl/MovieServiceImpl.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/domain/crosscutting/MovieConstants.java
+/Users/biishoplupus/IdeaProjects/lti-movies/src/main/java/com/alviter/movies/config/MoviesConfiguration.java
